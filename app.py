@@ -95,9 +95,9 @@ def voice_modal_func(text):
 def mapper(value):
     Name = ['Parkinsons', 'Healthy']
     if value:
-        return Name[1]
-    else : 
         return Name[0]
+    else : 
+        return Name[1]
 	
 
 
